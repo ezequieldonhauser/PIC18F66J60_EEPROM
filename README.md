@@ -1,6 +1,6 @@
 # PIC18F66J60_EEPROM
 
-PIC18F66J60 EEPROM 25LC1024
+PIC18F66J60 + EEPROM 25LC1024
 
 this code implements: socket client and server web server http
 
